@@ -3,8 +3,8 @@ from typing import Final
 from telegram import Update
 from telegram.ext import Application,CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN : Final = "6564726550:AAE82aDJjmKm89M5SAoFDWdFHVnUPVrAd9c"
-Bot_Username :Final="@ImanuelAIBot"
+TOKEN : Final = "ENTER YOUR TELEGRAM BOT TOKEN"
+Bot_Username :Final="ENTER TELEGRAM BOT USERNAME WITH @"
 
 
 
